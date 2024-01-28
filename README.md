@@ -22,8 +22,7 @@
 <br />
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/eb41f1ee-c246-42e1-8b08-4a6393d04d3a"/> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a4631ae2-eb55-4eb8-bbb7-a02118f03e73"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img height="50" width="50" src="" /> 
-
+<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/eb41f1ee-c246-42e1-8b08-4a6393d04d3a"/> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a4631ae2-eb55-4eb8-bbb7-a02118f03e73"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> <img width="64" height="64" src="https://img.icons8.com/wired/64/000000/postman-api.png" alt="postman-api"/>
 <br />
 
 ### 💻 Workspace Spec
@@ -37,11 +36,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br />
 
-
-
-
-
+<img height="30" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> [<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />](mailto:smsubash234@gmail.com)
 
 
 
