@@ -17,9 +17,9 @@ badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev)
 
 - 
 ## I Code in 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/3311b62c-cb62-455b-999f-7ee6556a1705" />
 
-![image](https://github.com/subashsriniwas/subashsriniwas/assets/132041545/3311b62c-cb62-455b-999f-7ee6556a1705)
+
 
 
 ### IDE and Tools I Use
