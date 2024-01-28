@@ -17,8 +17,19 @@ badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev)
 
   
 ## I Code in 
-<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/3311b62c-cb62-455b-999f-7ee6556a1705" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a3802509-5bdd-45dc-b83f-bd2ce4b422a9" /> <img height="50" width="50" src="https://icons8.com/icon/vR6XrZzQr1CN/my-sql" /> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> 
+<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/3311b62c-cb62-455b-999f-7ee6556a1705" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a3802509-5bdd-45dc-b83f-bd2ce4b422a9" /> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/56bcaf14-c550-4054-8c86-ae3570d74724" /> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> 
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code2019.png"/> <img height="50" width="50" src="https://icons8.com/icon/F7REdHlg6KJX/intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code2019.png"/> <img height="50" width="50" src="[https://icons8.com/icon/F7REdHlg6KJX/intellij-idea](https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a4631ae2-eb55-4eb8-bbb7-a02118f03e73)"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> 
+
+
+
+
+
+
+
+
+
+
+
