@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning DSA
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm the Batman🦇
-- 📫 How to reach me ...
+- 📫 Check below to reach me ...
 
-<br /> <br />
+<br />
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/thiz_iz_subazz/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subash-sriniwas/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:smsubash234@gmail.com/)
 
@@ -23,7 +23,7 @@
 <br /><br />
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/eb41f1ee-c246-42e1-8b08-4a6393d04d3a"/> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a4631ae2-eb55-4eb8-bbb7-a02118f03e73"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> <img height="50" width="50" src="" /> 
+<img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/eb41f1ee-c246-42e1-8b08-4a6393d04d3a"/> <img height="50" width="50" src="https://github.com/subashsriniwas/subashsriniwas/assets/132041545/a4631ae2-eb55-4eb8-bbb7-a02118f03e73"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="" /> 
 
 <br /><br />
 
