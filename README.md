@@ -38,7 +38,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img height="30" src="https://img.shields.io/github/commits-since/{subashsriniwas}/{portfolio}/{1.01}.svg"/> 
+<img height="30" src="https://img.shields.io/github/commits-since/{subashsriniwas}/{portfolio}/{version}.svg"/> 
 
 
 
