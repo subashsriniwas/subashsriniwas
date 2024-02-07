@@ -5,9 +5,9 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - Here's my [portfolio](https://subashsriniwas.github.io/portfolio/).
 - 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA 🤓
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I'm the Batman🦇
+- ⚡ Fun fact: I'm the Batman 🦇
 - 📫 Check below to reach me ...
 
 <br />
