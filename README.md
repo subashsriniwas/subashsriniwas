@@ -42,7 +42,3 @@
 <img height="30" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> [<img height="30" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />](mailto:smsubash234@gmail.com)
 
 
-
-
-
-
