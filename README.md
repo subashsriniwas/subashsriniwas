@@ -35,11 +35,11 @@
 
 <br />
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Subash_Sriniwas?ext=contest&theme=dark)](https://leetcode.com/Subash_Sriniwas)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Subash_Sriniwas?ext=contest&theme=dark)](https://leetcode.com/Subash_Sriniwas) ![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&show_icons=true&&hide=issues,contribs)
+
 
 <br />
 
-![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&show_icons=true&&hide=issues,contribs)
 
 <br />
 
