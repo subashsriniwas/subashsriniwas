@@ -8,7 +8,7 @@
 - 🌱 Currently learning DSA 🤓
 - 😄 Pronouns: Techie👨‍💻
 - ⚡ Fun fact: I'm the Batman 🦇
-- 📫 Check below to reach me ..
+- 📫 Check below to reach me ...
 
 <br />
 
