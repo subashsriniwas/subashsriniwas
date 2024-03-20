@@ -31,15 +31,26 @@
 
 <br />
 
-[![subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Subash_Sriniwas?ext=contest&theme=dark)](https://leetcode.com/Subash_Sriniwas)  ![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&show_icons=true&&hide=issues,contribs) 
 
 
 <br />
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subashsriniwas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subashsriniwas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subashsriniwas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+[![subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br />
 
 <img height="30" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> [<img height="30" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />](mailto:smsubash234@gmail.com)
 
