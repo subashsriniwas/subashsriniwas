@@ -33,9 +33,6 @@
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/Subash_Sriniwas?ext=contest&theme=dark)](https://leetcode.com/Subash_Sriniwas)  <!-- ![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&show_icons=true&&hide=issues,contribs)  -->
 
-<br />
-
-[![subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
@@ -43,11 +40,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=subashsriniwas&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=subashsriniwas&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subashsriniwas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subashsriniwas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subashsriniwas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br />
+
+[![subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashsriniwas&bg_color=000000&color=ffffff&line=00c785&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <br />
 
 <br />
 
